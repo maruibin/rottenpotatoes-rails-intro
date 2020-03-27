@@ -16,3 +16,6 @@
 !/log/.keep
 /tmp
 log
+
+# Ignore macOS filesystem files.
+.DS_Store
